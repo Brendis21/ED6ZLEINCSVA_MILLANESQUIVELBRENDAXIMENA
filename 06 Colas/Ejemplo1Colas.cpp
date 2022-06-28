@@ -84,7 +84,7 @@ void menu(){
 	cout<<"2.- Desencolar\n";
 	cout<<"3.- Mostrar cola\n";
 	cout<<"4.- Vaciar cola\n";
-	cout<<"1.- SALIR\n";
+	cout<<"5.- SALIR\n";
 	
 }
 int main(){
